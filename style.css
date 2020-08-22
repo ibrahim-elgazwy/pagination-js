@@ -1,0 +1,20 @@
+@import './node_modules/w3-css/w3.css';
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+button {
+    margin: 25px 5px;
+}
+
+select {
+    height: 38px;
+    width: 70px;
+    background: #b0d3be;
+    border: none;
+    margin: 25px;
+}
+
